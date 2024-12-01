@@ -1,0 +1,17 @@
+.user-card{
+    height: 300px;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: tomato;
+    color: black;
+    font-size: 20px;
+    padding: 50px;
+}
+
+img {
+    height: 200px;
+    border-radius: 50%;
+}
