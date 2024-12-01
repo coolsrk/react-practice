@@ -1,0 +1,28 @@
+.box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 250px;
+    width: 250px;
+    background-color: rgb(237, 241, 241);
+    box-shadow: 0 0 10px 10px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    gap: 10px;
+    font-size: 20px;
+    flex-wrap: wrap;
+}
+
+.btn {
+    background-color: rgb(89, 140, 242);
+    height: 50px;
+    width: 100px;
+    font-size: 15px;
+    border-radius: 10px;
+    color: white;
+}
+
+.btn:hover {
+    cursor: pointer;
+    box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.2);;
+}
