@@ -1,11 +1,10 @@
 import React from "react";
-// import DataFetcher from "./Use Effect Hook/components/DataFetcher";
-import MainMode from "./Use Context Hook/components/MainMode";
+import Main from "./React Router/components/Main";
 
 const App = () => {
   return (
     <>
-      <MainMode/>
+      <Main />
     </>
   );
 };

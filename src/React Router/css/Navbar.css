@@ -1,0 +1,16 @@
+.navbar {
+    list-style-type: none;
+    padding: 10px;
+    display: flex;
+    gap: 2rem;
+    justify-self: end;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: black;
+}
+
+.active-tab {
+    border: 1px solid red;
+}
