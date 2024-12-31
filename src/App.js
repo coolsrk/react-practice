@@ -1,10 +1,10 @@
 import React from "react";
-import Main from "./React Router/components/Main";
+import Form from "./React Hook Form/components/Form";
 
 const App = () => {
   return (
     <>
-      <Main />
+      <Form />
     </>
   );
 };
