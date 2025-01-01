@@ -1,10 +1,10 @@
 import React from "react";
-import StopWatch from "./Use Ref Hook/components/StopWatch";
+import Main from "./Use Memo/components/Main";
 
 const App = () => {
   return (
     <>
-      <StopWatch />
+      <Main />
     </>
   );
 };
