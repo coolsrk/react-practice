@@ -1,5 +1,5 @@
 import React from "react";
-import Main from "./Use Memo/components/Main";
+import Main from "./Redux/components/Main";
 
 const App = () => {
   return (
